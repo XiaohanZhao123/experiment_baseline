@@ -1,0 +1,9 @@
+noise_level: 0.1
+seed: 42
+C: 1.0
+sigma: 0.5
+tol: 1.0e-05
+k1: 0.3
+kernel: rbf
+p: 1
+n_split: 5

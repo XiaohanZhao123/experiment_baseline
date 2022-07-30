@@ -1,0 +1,7 @@
+epsilon: 0.1
+alpha: 0.0001
+penalty: l1
+loss: huber
+tol: 0.0001
+noise_level: 0.1
+n_split: 5
